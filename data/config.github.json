@@ -15,7 +15,7 @@
   },
   "processing": {
     "profiles_dir": "profiles",
-    "default_profile": "tech-news",
+    "default_profile": "fruit",
     "profile_settings": {
       "tech-news": {
         "threshold": 7.0,
@@ -32,6 +32,10 @@
       "ai-education": {
         "threshold": 5.0,
         "topic_dedup": true
+      },
+      "fruit": {
+        "threshold": 5.0,
+        "topic_dedup": true
       }
     }
   },
@@ -40,33 +44,33 @@
       {
         "type": "user_events",
         "username": "karpathy",
-        "enabled": true,
+        "enabled": false,
         "profile": "tech-news"
       },
       {
         "type": "repo_releases",
         "owner": "vllm-project",
         "repo": "vllm",
-        "enabled": true,
+        "enabled": false,
         "profile": "tech-news"
       },
       {
         "type": "repo_releases",
         "owner": "sgl-project",
         "repo": "sglang",
-        "enabled": true,
+        "enabled": false,
         "profile": "tech-news"
       },
       {
         "type": "repo_releases",
         "owner": "triton-lang",
         "repo": "triton",
-        "enabled": true,
+        "enabled": false,
         "profile": "tech-news"
       }
     ],
     "hackernews": {
-      "enabled": true,
+      "enabled": false,
       "fetch_top_stories": 30,
       "min_score": 150,
       "profile": "tech-news"
@@ -75,14 +79,14 @@
       {
         "name": "Simon Willison",
         "url": "https://simonwillison.net/atom/everything/",
-        "enabled": true,
+        "enabled": false,
         "category": "ai-tools",
         "profile": "tech-news"
       },
       {
         "name": "vLLM Blog",
         "url": "https://vllm.ai/blog/rss.xml",
-        "enabled": true,
+        "enabled": false,
         "category": "llm-inference",
         "profile": "tech-blog",
         "content_extractor": "trafilatura"
@@ -90,7 +94,7 @@
       {
         "name": "Sean Goedecke",
         "url": "https://www.seangoedecke.com/rss.xml",
-        "enabled": true,
+        "enabled": false,
         "category": "software-engineering",
         "profile": "tech-blog",
         "content_extractor": "trafilatura"
@@ -98,7 +102,7 @@
       {
         "name": "CNBC Finance",
         "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
-        "enabled": true,
+        "enabled": false,
         "category": "finance",
         "profile": "finance-news",
         "content_extractor": "trafilatura"
@@ -106,90 +110,174 @@
       {
         "name": "GitHub Trending - Daily",
         "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-        "enabled": true,
+        "enabled": false,
         "category": "github-trending",
         "profile": "tech-news"
       },
       {
         "name": "Semianalysis",
         "url": "https://newsletter.semianalysis.com/feed",
-        "enabled": true,
+        "enabled": false,
         "category": "semiconductors",
         "profile": "tech-news"
       },
       {
         "name": "LWN.net",
         "url": "https://lwn.net/headlines/full_text?key=${LWN_KEY}",
-        "enabled": true,
+        "enabled": false,
         "category": "linux-kernel",
         "profile": "tech-news"
       },
       {
         "name": "EdSurge",
         "url": "https://www.edsurge.com/articles_rss",
-        "enabled": true,
+        "enabled": false,
         "category": "ai-education",
         "profile": "ai-education"
       },
       {
         "name": "Inside Higher Ed",
         "url": "https://www.insidehighered.com/rss.xml",
-        "enabled": true,
+        "enabled": false,
         "category": "ai-education",
         "profile": "ai-education"
       },
       {
         "name": "MIT News · Education",
         "url": "https://news.mit.edu/rss/topic/education",
-        "enabled": true,
+        "enabled": false,
         "category": "ai-education",
         "profile": "ai-education"
       },
       {
         "name": "芥末堆",
         "url": "https://www.jiemodui.com/rss.xml",
-        "enabled": true,
+        "enabled": false,
         "category": "ai-education",
         "profile": "ai-education"
       },
       {
         "name": "eSchool News",
         "url": "https://www.eschoolnews.com/feed/",
-        "enabled": true,
+        "enabled": false,
         "category": "ai-education",
         "profile": "ai-education"
       },
       {
         "name": "EdTech Magazine",
         "url": "https://edtechmagazine.com/k12/rss.xml",
-        "enabled": true,
+        "enabled": false,
         "category": "ai-education",
         "profile": "ai-education"
       },
       {
         "name": "The Hechinger Report",
         "url": "https://hechingerreport.org/feed/",
-        "enabled": true,
+        "enabled": false,
         "category": "ai-education",
         "profile": "ai-education"
       },
       {
         "name": "Google News · AI 教育(EN)",
         "url": "https://news.google.com/rss/search?q=AI+education+when:2d&hl=en-US&gl=US&ceid=US:en",
-        "enabled": true,
+        "enabled": false,
         "category": "ai-education",
         "profile": "ai-education"
       },
       {
         "name": "Google News · AI 教育(ZH)",
         "url": "https://news.google.com/rss/search?q=AI+%E6%95%99%E8%82%B2&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "enabled": true,
+        "enabled": false,
         "category": "ai-education",
         "profile": "ai-education"
+      },
+      {
+        "name": "Fresh Fruit Portal",
+        "url": "https://www.freshfruitportal.com/feed/",
+        "enabled": true,
+        "category": "fruit",
+        "profile": "fruit"
+      },
+      {
+        "name": "HortiDaily",
+        "url": "https://www.hortidaily.com/rss.xml",
+        "enabled": true,
+        "category": "fruit",
+        "profile": "fruit"
+      },
+      {
+        "name": "Growing Produce",
+        "url": "https://www.growingproduce.com/feed/",
+        "enabled": true,
+        "category": "fruit",
+        "profile": "fruit"
+      },
+      {
+        "name": "Produce Business",
+        "url": "https://www.producebusiness.com/feed/",
+        "enabled": true,
+        "category": "fruit",
+        "profile": "fruit"
+      },
+      {
+        "name": "Good Fruit Grower",
+        "url": "https://www.goodfruit.com/feed/",
+        "enabled": true,
+        "category": "fruit",
+        "profile": "fruit"
+      },
+      {
+        "name": "AgFunderNews",
+        "url": "https://agfundernews.com/feed/",
+        "enabled": true,
+        "category": "fruit",
+        "profile": "fruit"
+      },
+      {
+        "name": "GN · 榴莲",
+        "url": "https://news.google.com/rss/search?q=%E6%A6%B4%E8%8E%B2&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "enabled": true,
+        "category": "fruit",
+        "profile": "fruit"
+      },
+      {
+        "name": "GN · 车厘子",
+        "url": "https://news.google.com/rss/search?q=%E8%BD%A6%E5%8E%98%E5%AD%90&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "enabled": true,
+        "category": "fruit",
+        "profile": "fruit"
+      },
+      {
+        "name": "GN · 红富士 苹果",
+        "url": "https://news.google.com/rss/search?q=%E7%BA%A2%E5%AF%8C%E5%A3%AB%20%E8%8B%B9%E6%9E%9C&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "enabled": true,
+        "category": "fruit",
+        "profile": "fruit"
+      },
+      {
+        "name": "GN · 进口水果",
+        "url": "https://news.google.com/rss/search?q=%E8%BF%9B%E5%8F%A3%E6%B0%B4%E6%9E%9C&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "enabled": true,
+        "category": "fruit",
+        "profile": "fruit"
+      },
+      {
+        "name": "GN · 水果 批发价格",
+        "url": "https://news.google.com/rss/search?q=%E6%B0%B4%E6%9E%9C%20%E6%89%B9%E5%8F%91%E4%BB%B7%E6%A0%BC&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "enabled": true,
+        "category": "fruit",
+        "profile": "fruit"
+      },
+      {
+        "name": "GN · fruit market (EN)",
+        "url": "https://news.google.com/rss/search?q=durian+OR+cherry+OR+%22apple+market%22+when:3d&hl=en-US&gl=US&ceid=US:en",
+        "enabled": true,
+        "category": "fruit",
+        "profile": "fruit"
       }
     ],
     "reddit": {
-      "enabled": true,
+      "enabled": false,
       "subreddits": [
         {
           "subreddit": "MachineLearning",
@@ -214,7 +302,7 @@
       "fetch_comments": 10
     },
     "telegram": {
-      "enabled": true,
+      "enabled": false,
       "channels": [
         {
           "channel": "zaihuapd",
@@ -232,12 +320,9 @@
     "time_window_hours": 24
   },
   "digest": {
-    "max_items": null,
+    "max_items": 15,
     "profile_order": [
-      "tech-news",
-      "tech-blog",
-      "finance-news",
-      "ai-education"
+      "fruit"
     ],
     "category_groups": {},
     "default_group": "other",
