@@ -28,6 +28,10 @@
       "finance-news": {
         "threshold": 7.0,
         "topic_dedup": true
+      },
+      "ai-education": {
+        "threshold": 5.0,
+        "topic_dedup": true
       }
     }
   },
@@ -119,6 +123,69 @@
         "enabled": true,
         "category": "linux-kernel",
         "profile": "tech-news"
+      },
+      {
+        "name": "EdSurge",
+        "url": "https://www.edsurge.com/articles_rss",
+        "enabled": true,
+        "category": "ai-education",
+        "profile": "ai-education"
+      },
+      {
+        "name": "Inside Higher Ed",
+        "url": "https://www.insidehighered.com/rss.xml",
+        "enabled": true,
+        "category": "ai-education",
+        "profile": "ai-education"
+      },
+      {
+        "name": "MIT News · Education",
+        "url": "https://news.mit.edu/rss/topic/education",
+        "enabled": true,
+        "category": "ai-education",
+        "profile": "ai-education"
+      },
+      {
+        "name": "芥末堆",
+        "url": "https://www.jiemodui.com/rss.xml",
+        "enabled": true,
+        "category": "ai-education",
+        "profile": "ai-education"
+      },
+      {
+        "name": "eSchool News",
+        "url": "https://www.eschoolnews.com/feed/",
+        "enabled": true,
+        "category": "ai-education",
+        "profile": "ai-education"
+      },
+      {
+        "name": "EdTech Magazine",
+        "url": "https://edtechmagazine.com/k12/rss.xml",
+        "enabled": true,
+        "category": "ai-education",
+        "profile": "ai-education"
+      },
+      {
+        "name": "The Hechinger Report",
+        "url": "https://hechingerreport.org/feed/",
+        "enabled": true,
+        "category": "ai-education",
+        "profile": "ai-education"
+      },
+      {
+        "name": "Google News · AI 教育(EN)",
+        "url": "https://news.google.com/rss/search?q=%22AI%22+education+classroom&hl=en-US&gl=US&ceid=US:en",
+        "enabled": true,
+        "category": "ai-education",
+        "profile": "ai-education"
+      },
+      {
+        "name": "Google News · AI 教育(ZH)",
+        "url": "https://news.google.com/rss/search?q=AI+%E6%95%99%E8%82%B2&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "enabled": true,
+        "category": "ai-education",
+        "profile": "ai-education"
       }
     ],
     "reddit": {
@@ -169,7 +236,8 @@
     "profile_order": [
       "tech-news",
       "tech-blog",
-      "finance-news"
+      "finance-news",
+      "ai-education"
     ],
     "category_groups": {},
     "default_group": "other",
