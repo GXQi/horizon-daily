@@ -189,3 +189,117 @@ h1, h2, h3, h4, h5, h6 {
 .lang-section.hidden {
   display: none;
 }
+
+/* ===== 日期选择条 (Date picker bar) ===== */
+.hz-datebar {
+  margin: 0 0 28px;
+  padding: 16px 18px;
+  border: 1px solid var(--hz-border);
+  border-radius: 12px;
+  background: var(--hz-surface);
+}
+
+.hz-datebar-title {
+  font-weight: 700;
+  margin-bottom: 10px;
+  color: var(--hz-text);
+}
+
+.hz-datebar-sub {
+  font-weight: 400;
+  font-size: 0.82em;
+  color: var(--hz-text-muted);
+  margin-left: 6px;
+}
+
+.hz-datebar-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+}
+
+.hz-date-input {
+  padding: 6px 10px;
+  border: 1px solid var(--hz-border);
+  border-radius: 8px;
+  background: var(--hz-bg);
+  color: var(--hz-text);
+  font-size: 0.95em;
+  font-family: inherit;
+}
+
+.hz-date-btn {
+  display: inline-block;
+  padding: 7px 14px;
+  border: 1px solid var(--hz-accent);
+  border-radius: 8px;
+  background: var(--hz-accent);
+  color: #fff !important;
+  font-size: 0.92em;
+  font-weight: 600;
+  text-decoration: none;
+  cursor: pointer;
+  line-height: 1.2;
+}
+
+.hz-date-btn:hover {
+  opacity: 0.9;
+  text-decoration: none;
+}
+
+.hz-date-ghost {
+  background: transparent;
+  color: var(--hz-accent) !important;
+}
+
+.hz-date-msg {
+  min-height: 1.2em;
+  margin-top: 8px;
+  font-size: 0.88em;
+  color: var(--hz-text-muted);
+}
+
+.hz-date-msg-ok { color: var(--hz-link); }
+.hz-date-msg-warn { color: #c2410c; }
+
+.hz-quick {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.hz-quick-btn {
+  padding: 4px 10px;
+  border: 1px solid var(--hz-border);
+  border-radius: 999px;
+  background: var(--hz-bg);
+  color: var(--hz-link) !important;
+  font-size: 0.85em;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.hz-quick-btn:hover {
+  border-color: var(--hz-link);
+  text-decoration: none;
+}
+
+.hz-quick-current {
+  border-color: var(--hz-accent);
+  color: var(--hz-accent) !important;
+  font-weight: 600;
+}
+
+/* ===== 归档页 ===== */
+.hz-archive-item {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 6px 0;
+  border-bottom: 1px dashed var(--hz-border);
+  font-size: 0.95em;
+}
+
+.hz-archive-item a { color: var(--hz-link); }
