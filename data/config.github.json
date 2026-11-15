@@ -175,7 +175,7 @@
       },
       {
         "name": "Google News · AI 教育(EN)",
-        "url": "https://news.google.com/rss/search?q=%22AI%22+education+classroom&hl=en-US&gl=US&ceid=US:en",
+        "url": "https://news.google.com/rss/search?q=AI+education+when:2d&hl=en-US&gl=US&ceid=US:en",
         "enabled": true,
         "category": "ai-education",
         "profile": "ai-education"
