@@ -235,35 +235,35 @@
       },
       {
         "name": "GN · 榴莲",
-        "url": "https://news.google.com/rss/search?q=%E6%A6%B4%E8%8E%B2&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "url": "https://news.google.com/rss/search?q=%E6%A6%B4%E8%8E%B2%20when%3A2d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
         "enabled": true,
         "category": "fruit",
         "profile": "fruit"
       },
       {
         "name": "GN · 车厘子",
-        "url": "https://news.google.com/rss/search?q=%E8%BD%A6%E5%8E%98%E5%AD%90&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "url": "https://news.google.com/rss/search?q=%E8%BD%A6%E5%8E%98%E5%AD%90%20when%3A2d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
         "enabled": true,
         "category": "fruit",
         "profile": "fruit"
       },
       {
         "name": "GN · 红富士 苹果",
-        "url": "https://news.google.com/rss/search?q=%E7%BA%A2%E5%AF%8C%E5%A3%AB%20%E8%8B%B9%E6%9E%9C&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "url": "https://news.google.com/rss/search?q=%E7%BA%A2%E5%AF%8C%E5%A3%AB%20%E8%8B%B9%E6%9E%9C%20when%3A2d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
         "enabled": true,
         "category": "fruit",
         "profile": "fruit"
       },
       {
         "name": "GN · 进口水果",
-        "url": "https://news.google.com/rss/search?q=%E8%BF%9B%E5%8F%A3%E6%B0%B4%E6%9E%9C&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "url": "https://news.google.com/rss/search?q=%E8%BF%9B%E5%8F%A3%E6%B0%B4%E6%9E%9C%20when%3A2d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
         "enabled": true,
         "category": "fruit",
         "profile": "fruit"
       },
       {
         "name": "GN · 水果 批发价格",
-        "url": "https://news.google.com/rss/search?q=%E6%B0%B4%E6%9E%9C%20%E6%89%B9%E5%8F%91%E4%BB%B7%E6%A0%BC&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "url": "https://news.google.com/rss/search?q=%E6%B0%B4%E6%9E%9C%20%E6%89%B9%E5%8F%91%E4%BB%B7%E6%A0%BC%20when%3A2d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
         "enabled": true,
         "category": "fruit",
         "profile": "fruit"
@@ -271,6 +271,20 @@
       {
         "name": "GN · fruit market (EN)",
         "url": "https://news.google.com/rss/search?q=durian+OR+cherry+OR+%22apple+market%22+when:3d&hl=en-US&gl=US&ceid=US:en",
+        "enabled": true,
+        "category": "fruit",
+        "profile": "fruit"
+      },
+      {
+        "name": "GN · 榴莲 价格",
+        "url": "https://news.google.com/rss/search?q=%E6%A6%B4%E8%8E%B2%20%E4%BB%B7%E6%A0%BC%20when%3A2d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "enabled": true,
+        "category": "fruit",
+        "profile": "fruit"
+      },
+      {
+        "name": "GN · 苹果 产地 收购价",
+        "url": "https://news.google.com/rss/search?q=%E8%8B%B9%E6%9E%9C%20%E4%BA%A7%E5%9C%B0%20%E6%94%B6%E8%B4%AD%E4%BB%B7%20when%3A2d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
         "enabled": true,
         "category": "fruit",
         "profile": "fruit"

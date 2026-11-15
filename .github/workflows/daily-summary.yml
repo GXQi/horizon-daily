@@ -37,7 +37,7 @@ jobs:
           # 仓库 Secrets 里配置 DEEPSEEK_API_KEY 即可
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: uv run horizon --hours 24
+        run: uv run horizon --hours 48
 
       - name: Set current date as environment variable
         run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
