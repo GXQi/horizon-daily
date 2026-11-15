@@ -1,0 +1,162 @@
+{
+  "ai": {
+    "provider": "deepseek",
+    "model": "deepseek-chat",
+    "api_key_env": "DEEPSEEK_API_KEY",
+    "base_url": "https://api.deepseek.com",
+    "temperature": 0.3,
+    "max_tokens": 4096,
+    "throttle_sec": 0,
+    "analysis_concurrency": 2,
+    "enrichment_concurrency": 2,
+    "languages": [
+      "zh"
+    ]
+  },
+  "processing": {
+    "profiles_dir": "profiles",
+    "default_profile": "tech-news",
+    "profile_settings": {
+      "tech-news": {
+        "threshold": 6.0,
+        "topic_dedup": true
+      }
+    }
+  },
+  "display": {
+    "icon_style": "emoji"
+  },
+  "collection": {
+    "time_window_hours": 24
+  },
+  "digest": {
+    "max_items": 15,
+    "profile_order": [
+      "tech-news"
+    ],
+    "category_groups": {},
+    "default_group": "other",
+    "default_group_limit": null
+  },
+  "sources": {
+    "hackernews": {
+      "enabled": false,
+      "fetch_top_stories": 10,
+      "min_score": 100,
+      "profile": "tech-news"
+    },
+    "rss": [
+      {
+        "name": "量子位",
+        "url": "https://www.qbitai.com/feed",
+        "enabled": true,
+        "category": "ai-cn",
+        "profile": "tech-news"
+      },
+      {
+        "name": "Simon Willison",
+        "url": "https://simonwillison.net/atom/everything/",
+        "enabled": true,
+        "category": "ai-tools",
+        "profile": "tech-news"
+      },
+      {
+        "name": "Hacker News 热榜",
+        "url": "https://hnrss.org/frontpage",
+        "enabled": true,
+        "category": "hackernews",
+        "profile": "tech-news",
+        "content_extractor": "trafilatura"
+      },
+      {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/feed",
+        "enabled": true,
+        "category": "engineering",
+        "profile": "tech-news",
+        "content_extractor": "trafilatura"
+      },
+      {
+        "name": "36氪",
+        "url": "https://www.36kr.com/feed",
+        "enabled": true,
+        "category": "industry",
+        "profile": "tech-news"
+      }
+    ],
+    "github": [
+      {
+        "type": "repo_releases",
+        "owner": "vercel",
+        "repo": "next.js",
+        "enabled": true,
+        "category": "frontend",
+        "profile": "tech-news"
+      }
+    ],
+    "ossinsight": {
+      "enabled": false,
+      "period": "past_24_hours",
+      "languages": [
+        "All",
+        "TypeScript",
+        "Python"
+      ],
+      "keywords": [],
+      "min_stars": 300,
+      "max_items": 12,
+      "category": "open-source",
+      "profile": "tech-news"
+    },
+    "reddit": {
+      "enabled": false,
+      "subreddits": [],
+      "users": [],
+      "fetch_comments": 0
+    },
+    "telegram": {
+      "enabled": false,
+      "channels": []
+    },
+    "twitter": {
+      "enabled": false,
+      "users": [],
+      "keywords": [],
+      "fetch_limit": 0,
+      "fetch_reply_text": false,
+      "max_replies_per_tweet": 0,
+      "max_tweets_to_expand": 0,
+      "reply_min_likes": 5,
+      "profile": "tech-news"
+    },
+    "openbb": {
+      "enabled": false,
+      "fetch_filings": false,
+      "filings_provider": "sec",
+      "watchlists": []
+    }
+  },
+  "email": {
+    "enabled": false,
+    "smtp_server": "smtp.qq.com",
+    "smtp_port": 465,
+    "imap_server": "imap.qq.com",
+    "imap_port": 993,
+    "email_address": "your@qq.com",
+    "sender_name": "Horizon Daily",
+    "subscribe_keyword": "SUBSCRIBE",
+    "unsubscribe_keyword": "UNSUBSCRIBE"
+  },
+  "webhook": {
+    "enabled": false,
+    "url_env": "HORIZON_WEBHOOK_URL",
+    "delivery": "summary",
+    "platform": "generic",
+    "layout": "markdown"
+  },
+  "wechat": {
+    "enabled": false,
+    "languages": null,
+    "chunk_size": 4000
+  }
+}

@@ -1,0 +1,23 @@
+theme: jekyll-theme-cayman
+title: Horizon 每日速递
+description: AI 精选的技术与 AI 资讯日报
+baseurl: "/horizon-daily" # 仓库名；若仓库改名为 gxqi.github.io 则留空 ""
+url: "https://gxqi.github.io" # 站点域名
+
+# Build settings
+markdown: kramdown
+future: true # Allow future posts to be published
+plugins:
+  - jekyll-feed
+feed:
+  path: feed.xml
+exclude:
+  - ".github"
+  - "node_modules"
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"

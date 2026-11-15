@@ -1,0 +1,210 @@
+{
+  "ai": {
+    "provider": "deepseek",
+    "model": "deepseek-chat",
+    "api_key_env": "DEEPSEEK_API_KEY",
+    "base_url": "https://api.deepseek.com",
+    "temperature": 0.3,
+    "max_tokens": 4096,
+    "throttle_sec": 0,
+    "analysis_concurrency": 2,
+    "enrichment_concurrency": 2,
+    "languages": [
+      "zh"
+    ]
+  },
+  "processing": {
+    "profiles_dir": "profiles",
+    "default_profile": "tech-news",
+    "profile_settings": {
+      "tech-news": {
+        "threshold": 5.5,
+        "topic_dedup": true
+      }
+    }
+  },
+  "display": {
+    "icon_style": "emoji"
+  },
+  "collection": {
+    "time_window_hours": 24
+  },
+  "digest": {
+    "max_items": 15,
+    "profile_order": [
+      "tech-news"
+    ],
+    "category_groups": {},
+    "default_group": "other",
+    "default_group_limit": null
+  },
+  "sources": {
+    "hackernews": {
+      "enabled": false,
+      "fetch_top_stories": 10,
+      "min_score": 100,
+      "profile": "tech-news"
+    },
+    "rss": [
+      {
+        "name": "React 官方博客",
+        "url": "https://react.dev/rss.xml",
+        "enabled": true,
+        "category": "react",
+        "profile": "tech-news"
+      },
+      {
+        "name": "Next.js 官方博客",
+        "url": "https://nextjs.org/feed.xml",
+        "enabled": true,
+        "category": "nextjs",
+        "profile": "tech-news"
+      },
+      {
+        "name": "TypeScript 官方博客",
+        "url": "https://devblogs.microsoft.com/typescript/feed/",
+        "enabled": true,
+        "category": "typescript",
+        "profile": "tech-news"
+      },
+      {
+        "name": "CSS-Tricks",
+        "url": "https://css-tricks.com/feed/",
+        "enabled": true,
+        "category": "css",
+        "profile": "tech-news",
+        "content_extractor": "trafilatura"
+      },
+      {
+        "name": "Frontend Focus",
+        "url": "https://frontendfoc.us/rss",
+        "enabled": true,
+        "category": "frontend",
+        "profile": "tech-news"
+      },
+      {
+        "name": "掘金",
+        "url": "https://juejin.cn/rss",
+        "enabled": true,
+        "category": "china-frontend",
+        "profile": "tech-news"
+      },
+      {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/feed",
+        "enabled": true,
+        "category": "engineering",
+        "profile": "tech-news",
+        "content_extractor": "trafilatura"
+      },
+      {
+        "name": "JetBrains Blog",
+        "url": "https://blog.jetbrains.com/feed/",
+        "enabled": true,
+        "category": "tools",
+        "profile": "tech-news"
+      },
+      {
+        "name": "MDN Blog",
+        "url": "https://developer.mozilla.org/en-US/blog/rss.xml",
+        "enabled": true,
+        "category": "web-platform",
+        "profile": "tech-news"
+      },
+      {
+        "name": "Smashing Magazine",
+        "url": "https://www.smashingmagazine.com/feed/",
+        "enabled": true,
+        "category": "frontend",
+        "profile": "tech-news",
+        "content_extractor": "trafilatura"
+      },
+      {
+        "name": "Node.js Blog",
+        "url": "https://nodejs.org/en/feed/blog.xml",
+        "enabled": true,
+        "category": "nodejs",
+        "profile": "tech-news"
+      },
+      {
+        "name": "ESLint Blog",
+        "url": "https://eslint.org/feed.xml",
+        "enabled": true,
+        "category": "tooling",
+        "profile": "tech-news"
+      },
+      {
+        "name": "Tailwind CSS Blog",
+        "url": "https://tailwindcss.com/feeds/feed.xml",
+        "enabled": true,
+        "category": "css",
+        "profile": "tech-news"
+      }
+    ],
+    "github": [],
+    "ossinsight": {
+      "enabled": false,
+      "period": "past_24_hours",
+      "languages": [
+        "All",
+        "TypeScript",
+        "Python"
+      ],
+      "keywords": [],
+      "min_stars": 300,
+      "max_items": 12,
+      "category": "open-source",
+      "profile": "tech-news"
+    },
+    "reddit": {
+      "enabled": false,
+      "subreddits": [],
+      "users": [],
+      "fetch_comments": 0
+    },
+    "telegram": {
+      "enabled": false,
+      "channels": []
+    },
+    "twitter": {
+      "enabled": false,
+      "users": [],
+      "keywords": [],
+      "fetch_limit": 0,
+      "fetch_reply_text": false,
+      "max_replies_per_tweet": 0,
+      "max_tweets_to_expand": 0,
+      "reply_min_likes": 5,
+      "profile": "tech-news"
+    },
+    "openbb": {
+      "enabled": false,
+      "fetch_filings": false,
+      "filings_provider": "sec",
+      "watchlists": []
+    }
+  },
+  "email": {
+    "enabled": false,
+    "smtp_server": "smtp.qq.com",
+    "smtp_port": 465,
+    "imap_server": "imap.qq.com",
+    "imap_port": 993,
+    "email_address": "your@qq.com",
+    "sender_name": "Horizon Daily",
+    "subscribe_keyword": "SUBSCRIBE",
+    "unsubscribe_keyword": "UNSUBSCRIBE"
+  },
+  "webhook": {
+    "enabled": false,
+    "url_env": "HORIZON_WEBHOOK_URL",
+    "delivery": "summary",
+    "platform": "generic",
+    "layout": "markdown"
+  },
+  "wechat": {
+    "enabled": false,
+    "languages": null,
+    "chunk_size": 4000
+  }
+}
