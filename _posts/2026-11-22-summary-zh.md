@@ -5,39 +5,61 @@ date: 2026-11-22
 lang: zh
 ---
 
-> 从 166 条内容中筛选出 15 条重要资讯。
+> 从 151 条内容中筛选出 15 条重要资讯。
 
 ---
 
 **水果行情**
-1. [摩尔多瓦樱桃获准出口中国](#item-fruit-1) ⭐️ 8.0/10
-2. [智利车厘子累计出口超 8600 吨，68%运往中国](#item-fruit-2) ⭐️ 7.0/10
-3. [法国樱桃园移动光伏板减少灌溉需求 20%](#item-fruit-3) ⭐️ 7.0/10
-4. [Fresh Farms 聘请葡萄品类协调员，四产地供应扩张](#item-fruit-4) ⭐️ 6.0/10
-5. [巴西、美国、墨西哥橙子产量预计下滑，全球橙汁供应趋紧](#item-fruit-5) ⭐️ 6.0/10
-6. [吉尔吉斯斯坦因植物检疫违规退回 22.5 吨阿富汗黄瓜](#item-fruit-6) ⭐️ 6.0/10
-7. [印度园艺产量预计创纪录达 3.869 亿吨](#item-fruit-7) ⭐️ 6.0/10
-8. [苏州空运车厘子少量上市 批发每斤 60 至 100 元](#item-fruit-8) ⭐️ 6.0/10
-9. [天津口岸首次进口韩国甜柿](#item-fruit-9) ⭐️ 6.0/10
-10. [福贾樱桃番茄生食限制解除，沙门氏菌个案引关注](#item-fruit-10) ⭐️ 5.0/10
-11. [美国果蔬业推动农工签证改革](#item-fruit-11) ⭐️ 5.0/10
-12. [尼日利亚卡诺州签 300 万美元协议建 1000 座番茄温室](#item-fruit-12) ⭐️ 5.0/10
-13. [东航承运智利车厘子入华十余年](#item-fruit-13) ⭐️ 5.0/10
+1. [泰国签署对华鲜榴莲新植物检疫协议](#item-fruit-1) ⭐️ 8.0/10
+2. [摩尔多瓦樱桃获准出口中国](#item-fruit-2) ⭐️ 7.0/10
+3. [Fresh Farms 聘请葡萄老将 Doug Rossi 统筹四产地业务](#item-fruit-3) ⭐️ 6.0/10
+4. [巴西、美国、墨西哥橙子产量预计下滑，全球橙汁供应趋紧](#item-fruit-4) ⭐️ 6.0/10
+5. [吉尔吉斯斯坦因植物检疫违规退回 22.5 吨阿富汗黄瓜](#item-fruit-5) ⭐️ 6.0/10
+6. [福贾恢复机构餐饮生鲜番茄供应](#item-fruit-6) ⭐️ 6.0/10
+7. [印度园艺作物产量预计创纪录达 3.869 亿吨](#item-fruit-7) ⭐️ 6.0/10
+8. [尼日利亚卡诺州签约 300 万美元建 1000 座番茄温室](#item-fruit-8) ⭐️ 6.0/10
+9. [2026 至 2027 产季首批智利车厘子抵达深圳](#item-fruit-9) ⭐️ 6.0/10
+10. [天津口岸首次进口韩国甜柿](#item-fruit-10) ⭐️ 6.0/10
+11. [南非樱桃收成不佳，供应前景不明](#item-fruit-11) ⭐️ 6.0/10
+12. [东航扩展智利车厘子供应链角色](#item-fruit-12) ⭐️ 5.0/10
+13. [珠海网以车厘子跨洋之旅报道跨境贸易便利化](#item-fruit-13) ⭐️ 5.0/10
 14. [京东生鲜首推“精挑车厘子”预售](#item-fruit-14) ⭐️ 5.0/10
-15. [智利车厘子 2026 至 2027 产季首批抵达深圳](#item-fruit-15) ⭐️ 5.0/10
+15. [费城批发市场发布 2026 年 11 月 20 日水果报告](#item-fruit-15) ⭐️ 5.0/10
 
 ---
 
 ## 水果行情
 
 <a id="item-fruit-1"></a>
-### [摩尔多瓦樱桃获准出口中国](https://www.freshfruitportal.com/news/2026/11/20/moldova-china-trade/) ⭐️ 8.0/10
+### [泰国签署对华鲜榴莲新植物检疫协议](https://news.google.com/rss/articles/CBMizAFBVV95cUxQWW1rNmxKaFBfb3lQU0JfdXI5ZWhvN1dHcWdxOW9tQXNyZ3NfXzNBVTJIbFEyZFNlZy15bS1kQTVLSjVtcVFqMnU1d2dNd1EwS0xTbWtocnQ3RThlak9Jcy1FUmFENWRNN3NZaHRLRWRJdVhsRXAyMjBXS2RrZ0F1UTJwbXZIMjV0engwYTl1ZXh3M1drZTlvVS0wRVFzMk5KMlZ1cWNuS0ZkcWFVbWM0UGZEdE81NUNoLXRUUFJoc2poVFZYcktXWGRkZEQ?oc=5) ⭐️ 8.0/10
 
-摩尔多瓦樱桃已获准出口至中国，为该国农产品打开一条新的市场准入通道。报道称，这一批准被视为摩尔多瓦农业的重要突破，也是其与中国扩大贸易关系的第一步。报道未披露获批出口的数量、价格或具体生效日期。
+据《星报》报道，泰国已签署一项针对输华鲜榴莲的新植物健康协议。该报道仅提供标题，未披露协议条款、涉及数量、价格或生效时间。协议的具体内容和执行安排目前无法从现有信息中确认。
+
+rss · GN · fruit market \(EN\) · 11月22日 06:35
+
+**「背景」** 泰国与中国此前已有鲜榴莲输华安排，新协议是在既有贸易通道上的植物检疫规则更新。据 Nation Thailand 报道，2026 年前九个月泰国对华榴莲出口量已超过 2025 年全年总量，新协议旨在加快通关速度。
+
+**「影响」** 由于该消息仅提供标题，未披露新植物检疫议定书的具体条款、生效日期或涉及数量，目前无法据此判断对华榴莲供应将收紧还是放宽，也无法确认价格方向。在议定书细节公布前，泰国鲜榴莲对华出口的检验与认证要求是否发生变化仍属未知。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nationthailand.com/">Nation Thailand news website, thai news, thailand ... : Nation Thailand</a></li>
+
+</ul>
+</details>
+
+**标签**: `#durian-Thailand`, `#durian-China`, `#phytosanitary-protocol`, `#plant-health`, `#fruit-imports`
+
+---
+
+<a id="item-fruit-2"></a>
+### [摩尔多瓦樱桃获准出口中国](https://www.freshfruitportal.com/news/2026/11/20/moldova-china-trade/) ⭐️ 7.0/10
+
+摩尔多瓦的樱桃已获准出口至中国，为这一欧洲产地打开了新的市场准入通道。据 FreshFruitPortal 于 2026 年 11 月 20 日报道，该批准被视为摩尔多瓦农业的重大突破，也是其与中国扩大贸易关系的第一步。报道未披露获批的樱桃品种、涉及数量、价格水平或具体生效日期。
 
 rss · Fresh Fruit Portal · 11月20日 11:00
 
-**「背景」** 此次准入源于在上海举行的中摩政府间经贸合作委员会第九次会议上签署的鲜食樱桃输华植物检疫要求议定书，该议定书正式给予摩尔多瓦鲜樱桃对华市场准入。据摩尔多瓦方面报道，议定书签署后鲜食摩尔多瓦甜樱桃即可对华出口。来源未披露出口量、价格或具体生效日期。
+**「背景」** 此次准入源于在上海举行的中摩政府间经贸合作委员会第九次会议上签署的新鲜樱桃输华植物检疫要求议定书，该议定书正式给予摩尔多瓦新鲜樱桃对华市场准入。摩尔多瓦通讯社的报道称，议定书签署后新鲜摩尔多瓦甜樱桃即可对华出口。来源未披露品种、数量、价格或具体生效日期等细节。
 
 <details><summary>参考链接</summary>
 <ul>
@@ -52,206 +74,191 @@ rss · Fresh Fruit Portal · 11月20日 11:00
 
 ---
 
-<a id="item-fruit-2"></a>
-### [智利车厘子累计出口超 8600 吨，68%运往中国](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YZ0pYZ014RFpnaG05WmpEaDlrN09lVDF4dHo5N05mSmVJVjFuOFJ1dHZULXdQam5YZ0lEUWJKdzNoUk1wamVfaWJQRGdfdTVL?oc=5) ⭐️ 7.0/10
-
-据国际果蔬报道，智利车厘子累计出口量已超过 8600 吨，其中 68%运往中国。报道未说明该累计数据对应的具体产季起止时间，也未给出品种、价格或后续到货预测。
-
-rss · GN · 车厘子 · 11月20日 06:19
-
-**「背景」** 该报道未说明这 8600 余吨对应的具体产季阶段或品种，也未给出上一季同期出口量或价格水平，因此无法判断同比增减。智利车厘子对华出口通常集中在南半球夏季，即每年 11 月至次年 2 月的海运到货窗口，这一时段是判断累计出口数据所处位置的关键参照。
-
-**标签**: `#cherry-Chile`, `#cherry-China`, `#export-volume`, `#trade-statistics`
-
----
-
 <a id="item-fruit-3"></a>
-### [法国樱桃园移动光伏板减少灌溉需求 20%](https://news.google.com/rss/articles/CBMie0FVX3lxTE5RZXh2M25Uazg4VGw3clI1SVV2WVpsMmNVVkI2YWhLVFEtQVlLbEdKRUFLTkYwMmxOd0VqUE5jZ2hlc21zOXVlQnloX2JEZzE2bXA2WVU1UjJrOEhfekU2SXJTX21Pd1B0aWhtWnIxcDBha3VscEhYRk1aRQ?oc=5) ⭐️ 7.0/10
+### [Fresh Farms 聘请葡萄老将 Doug Rossi 统筹四产地业务](https://www.freshfruitportal.com/news/2026/11/20/fresh-farms-exec/) ⭐️ 6.0/10
 
-据 Energies Media 报道，法国一处樱桃园在树冠上方安装可移动太阳能板，据称使灌溉需求减少 20%，同时为果树提供高温和霜冻防护。该报道描述的是单一果园的农光互补实践，未给出果园具体位置、面积、樱桃品种或产量数据。报道也未提供价格、出货量或商业销售信息。
+Fresh Farms 已聘请鲜食葡萄行业资深人士 Doug Rossi 担任美国及进口葡萄品类协调员（Grapes Category Coordinator for USA and Imports）。据 Fresh Farms 介绍，Rossi 拥有 19 年农产品销售经验，将加入一个目前几乎全年运作、覆盖墨西哥、加利福尼亚、秘鲁和智利四个产地的葡萄业务。报道未披露该职位的生效日期，也未给出任何数量、价格或采购规模数据。
 
-rss · GN · fruit market \(EN\) · 11月20日 20:40
+rss · Fresh Fruit Portal · 11月20日 15:13
 
-**「背景」** 该报道仅涉及一座法国樱桃园的农光互补试验，未提供与往年灌溉量、产量或价格的对比数据。农光互补指在同一块土地上同时进行光伏发电与农业生产，可移动式光伏板是其中一种形式。
+**「背景」** Fresh Farms 由墨西哥索诺拉州埃莫西约的 Molina 家族全资拥有，该家族种植鲜食葡萄、蔬菜和西瓜已有超过 25 年（tool-2-2）。2026 年 2 月，Fresh Farms 与 Sun World International 达成战略合作，作为其全球授权营销网络成员向北美市场供应 Sun World 的专有鲜食葡萄品种（tool-2-3）。此次人事任命正值其葡萄业务扩展至墨西哥、加利福尼亚、秘鲁和智利四个产地、接近全年供应。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Agrivoltaics">Agrivoltaics - Wikipedia</a></li>
+<li><a href="https://freshfarms.com.mx/about-us/">About Us – Fresh Farms</a></li>
+<li><a href="https://theproducenews.com/fresh-farms-partners-sun-world-supply-branded-table-grapes-north-america">Fresh Farms partners with Sun World to supply branded table ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#cherry-France`, `#agrivoltaics`, `#growing-practice`, `#irrigation`, `#frost-protection`
+**标签**: `#grape-Mexico`, `#grape-California`, `#grape-Peru`, `#grape-Chile`, `#Fresh-Farms`
 
 ---
 
 <a id="item-fruit-4"></a>
-### [Fresh Farms 聘请葡萄品类协调员，四产地供应扩张](https://www.freshfruitportal.com/news/2026/11/20/fresh-farms-exec/) ⭐️ 6.0/10
+### [巴西、美国、墨西哥橙子产量预计下滑，全球橙汁供应趋紧](https://www.freshfruitportal.com/news/2026/11/20/orange-supplies/) ⭐️ 6.0/10
 
-Fresh Farms 已聘请拥有 19 年果蔬销售经验的 Doug Rossi 担任美国及进口葡萄品类协调员（Grapes Category Coordinator for USA and Imports）。该公司葡萄业务目前覆盖墨西哥、加利福尼亚、秘鲁和智利四个产地，供应接近全年。报道未披露具体数量、价格或各产季的供应预测。
+据 Freshfruitportal 报道，巴西、美国、墨西哥三地下一季的橙子收成合计预计将下降，从而收紧全球橙汁供应。该报道将这一变化归因于 2026/27 季的产量预测，但摘要未给出具体产量、降幅或价格数据。
 
-rss · Fresh Fruit Portal · 11月20日 15:13
+rss · Fresh Fruit Portal · 11月20日 11:00
 
-**「背景」** Fresh Farms 表示葡萄是其业务中占比最大的品类，并称正在“两端”投入，但报道未展开具体投入内容。此次人事任命发生在公司葡萄供应扩展至墨西哥、加州、秘鲁和智利四产地、接近全年供应的背景下。
+**「背景」** 该报道仅给出方向性判断，未提供巴西、美国、墨西哥三国具体的产量、降幅或价格数据，因此无法与上一季的出货量或价格水平作量化对比。报道也未说明 2026/27 季的起始月份或各国橙子的典型采收高峰。
 
-**标签**: `#grape-Mexico`, `#grape-California`, `#grape-Peru`, `#grape-Chile`, `#table-grape`
+**标签**: `#orange-Brazil`, `#orange-US`, `#orange-Mexico`, `#juice-supply`, `#season-forecast`
 
 ---
 
 <a id="item-fruit-5"></a>
-### [巴西、美国、墨西哥橙子产量预计下滑，全球橙汁供应趋紧](https://www.freshfruitportal.com/news/2026/11/20/orange-supplies/) ⭐️ 6.0/10
+### [吉尔吉斯斯坦因植物检疫违规退回 22.5 吨阿富汗黄瓜](https://www.hortidaily.com/article/9894570/kyrgyzstan-returns-22-5-tonnes-of-cucumbers-to-afghanistan-over-phytosanitary-violations/) ⭐️ 6.0/10
 
-据 FreshfruitPortal 报道，巴西、美国、墨西哥三地合计橙子收成预计在 2026/27 季下降，全球橙汁供应将随之趋紧。该报道未给出具体产量、降幅或生效日期，也未说明对鲜食橙子市场的影响。上述为预测，并非已确认的到货或报价数据。
+吉尔吉斯斯坦阻止了 22.5 吨阿富汗黄瓜入境，并将其退回。据吉尔吉斯斯坦水资源、农业和加工工业部通报，检查人员认定该批货物不符合植物检疫要求，且缺少规定的标签标识。违规情况是在检查中被发现的。
 
-rss · Fresh Fruit Portal · 11月20日 11:00
+rss · HortiDaily · 11月20日 12:12
 
-**「背景」** 该报道仅给出巴西、美国、墨西哥三地橙子收成在 2026/27 季预计下降、全球橙汁供应趋紧的方向性判断，未提供具体产量、降幅或生效日期。来源也未说明上一季的对比基数或当前价格水平，因此无法据此量化供应收紧的幅度。
+**「背景」** 这是吉尔吉斯斯坦主管部门针对阿富汗黄瓜这一具体批次作出的植物检疫和标签合规处置，涉及两国之间的黄瓜贸易通道。来源未提供该通道此前的发货量、价格水平或同类退运记录，因此无法判断此次退运在双边贸易中的相对规模。
 
-**标签**: `#orange-Brazil`, `#orange-US`, `#orange-Mexico`, `#citrus-supply`, `#juice-supply`
+**标签**: `#cucumber-Afghanistan`, `#cucumber-Kyrgyzstan`, `#phytosanitary`, `#trade-lane`, `#Central-Asia`
 
 ---
 
 <a id="item-fruit-6"></a>
-### [吉尔吉斯斯坦因植物检疫违规退回 22.5 吨阿富汗黄瓜](https://www.hortidaily.com/article/9894570/kyrgyzstan-returns-22-5-tonnes-of-cucumbers-to-afghanistan-over-phytosanitary-violations/) ⭐️ 6.0/10
+### [福贾恢复机构餐饮生鲜番茄供应](https://www.hortidaily.com/article/9895022/isolated-salmonella-cases-must-not-damage-the-reputation-of-an-entire-production-area/) ⭐️ 6.0/10
 
-吉尔吉斯斯坦阻止了 22.5 吨阿富汗黄瓜入境，并已将其退回。据吉尔吉斯斯坦水资源、农业和加工工业部通报，检查人员认定该批货物不符合植物检疫要求，且缺少规定的标签。违规情况是在检查中被发现的。
+意大利普利亚大区福贾地方卫生局（Foggia Local Health Authority）在暂停多个意大利地区的学校食堂、医院及其他弱势群体机构供应生鲜樱桃番茄后，出台了新措施，重新允许机构餐饮供应生鲜番茄。报道称，此次暂停与沙门氏菌（Salmonella）相关，文章主张个别病例不应损害整个产区的声誉。来源摘要未提供涉及的数量、价格或贸易流向数据。
 
 rss · HortiDaily · 11月20日 12:12
 
-**「背景」** 这是阿富汗对吉尔吉斯斯坦黄瓜贸易通道上的一次具体检疫拒收，涉及数量为 22.5 吨。来源未说明该通道此前的发货量、价格水平或季节性高峰，也未提及此次拒收对价格或供应的影响。
+**「背景」** 此前，意大利多个大区的学校食堂、医院等机构暂停供应生鲜樱桃番茄，涉及脆弱人群的餐饮服务。此次由阿普利亚大区福贾地方卫生局出台新措施，重新允许机构餐饮供应生鲜番茄。该报道未披露暂停与恢复之间的具体时间跨度、涉及数量或价格数据。
 
-**标签**: `#cucumber-Afghanistan`, `#cucumber-Kyrgyzstan`, `#phytosanitary`, `#trade-lane`, `#central-asia`
+**标签**: `#tomato-Italy`, `#cherry-tomato`, `#food-safety`, `#Apulia-Foggia`, `#institutional-catering`
 
 ---
 
 <a id="item-fruit-7"></a>
-### [印度园艺产量预计创纪录达 3.869 亿吨](https://www.hortidaily.com/article/9894904/india-s-horticulture-production-set-to-reach-record-386-9-million-tons/) ⭐️ 6.0/10
+### [印度园艺作物产量预计创纪录达 3.869 亿吨](https://www.hortidaily.com/article/9894904/india-s-horticulture-production-set-to-reach-record-386-9-million-tons/) ⭐️ 6.0/10
 
-印度农业与农民福利部及农村发展部部长 Shri Shivraj Singh Chouhan 发布了 2025-26 年度园艺作物面积和产量的第三次预先估计。根据该估计，印度园艺产量预计将达到创纪录的 3.869 亿吨。该数据为全国园艺作物总量，来源摘要未提供分品种、分水果的产量明细，也未给出价格或贸易数据。
+印度农业与农民福利及农村发展部部长 Shri Shivraj Singh Chouhan 发布了 2025-26 年度园艺作物面积和产量的第三次预先估计。根据最新估计，印度园艺作物产量预计将达到创纪录的 3.869 亿吨。该数据为涵盖全部园艺作物的总量，来源摘要未给出苹果、榴莲或樱桃等单一品种的产量、价格或贸易数据。
 
 rss · HortiDaily · 11月20日 12:12
 
-**「背景」** 该数字来自官方第三次预先估计，属于对 2025-26 年度的预测值，而非已完成的实际产量统计。园艺作物统计涵盖水果、蔬菜等多个类别，因此 3.869 亿吨的总量不能直接对应某一水果品种的供应变化。
+**「背景」** 这是印度 2025-26 年度园艺作物产量的第三次预先估计，属于对当季产量的预测数据，而非已完成的实际收成统计。该估计覆盖全部园艺作物，因此无法据此判断某一具体水果品种的供应变化。
 
-**标签**: `#horticulture-India`, `#production-estimate`, `#trade-statistics`, `#2025-26`
+**「影响」** 由于来源仅提供全国园艺作物总量预测，未披露分品种产量或价格，无法据此判断任何单一水果的价格方向或供应松紧。
+
+**标签**: `#horticulture-India`, `#production-forecast`, `#trade-statistics`, `#apple-India`, `#season-outlook`
 
 ---
 
 <a id="item-fruit-8"></a>
-### [苏州空运车厘子少量上市 批发每斤 60 至 100 元](https://news.google.com/rss/articles/CBMijAFBVV95cUxPYUVqcUdEUmhXRWN3ZVpmbGNjaDBUU3p2d0M1N1Q5RUlNUFhRcmdKNlRta3F6ZkZZWXJOX3RNOXdIbDNIT2lDWUdTRklzTWh0WHlSa3Q2NTVlTGZLQ3lMWkZsWUN6M1NPMG5NYlQwQ3lwQ2RjeTR2UTVmOFE2WGtlbG1NU1VmaFYyVWNfTg?oc=5) ⭐️ 6.0/10
+### [尼日利亚卡诺州签约 300 万美元建 1000 座番茄温室](https://www.hortidaily.com/article/9894930/nigeria-signs-3m-deal-for-1-000-climate-smart-greenhouses-in-kano/) ⭐️ 6.0/10
 
-苏州市场已有少量空运车厘子上市。据搜狐报道，这批车厘子的批发价为每斤 60 至 100 元人民币，零售价最高达到每斤 168 元人民币。报道未说明车厘子的具体品种、产地和到货总量。
+尼日利亚联邦政府签署了一项价值 300 万美元的协议，将在卡诺州建设 1000 座气候智能型温室，用于番茄生产。该谅解备忘录在会议间隙签署，目标是提升农业生产力，并以现代农业技术帮助农户。来源未披露温室投产时间、预期产量或番茄价格信息。
 
-rss · GN · 车厘子 · 11月20日 07:47
+rss · HortiDaily · 11月20日 12:12
 
-**「背景」** 空运车厘子通常以少量、高价的姿态先行进入市场，此次苏州的报价属于早期到货阶段的价格水平。由于来源未披露品种、产地及后续到货计划，目前无法判断这一价格与往年同期或其他市场的差异。
+**「背景」** 该协议属于生产设施投资，而非贸易规则或供应中断事件。来源未提供卡诺州此前的番茄产量、价格水平或温室建设进度，因此无法与既有数据作对比。
 
-**标签**: `#cherry`, `#cherry-import`, `#Suzhou`, `#wholesale-price`, `#air-freight`
+**「影响」** 由于来源未给出投产时间、单产或产量预估，目前无法判断该协议对尼日利亚番茄供应和价格的具体方向与幅度。
+
+**标签**: `#tomato-Nigeria`, `#greenhouse-Kano`, `#agricultural-investment`, `#production-capacity`
 
 ---
 
 <a id="item-fruit-9"></a>
-### [天津口岸首次进口韩国甜柿](https://news.google.com/rss/articles/CBMiggFBVV95cUxQUF9KUkhkem1UNlpoSkhOTXNyQndqX044c09ES3JlSWUwSTFieVREUkdJdkVXeEVFTGV0NEswWGRXUEJqWmN5Q0pBQWJuQlFJTUFIYXRnbEU2bGo4QVFJTDFvQkJiclBuQ2Q5VG9sOExJaTJEOXIzR0JLRURubV81Mnh3?oc=5) ⭐️ 6.0/10
+### [2026 至 2027 产季首批智利车厘子抵达深圳](https://news.google.com/rss/articles/CBMijwFBVV95cUxQbnlib3FSaC1ibmRoM05qWXJXRUdWYm1CeklubXZkdXFJX3NFY29uQmZYajlwYy1sNE1GSXpCbDEyWTdacVRSNjcwYldTZVJnakdDQmp3R01ON29SZGlzaFlNQi11Wi1mZXlqcU1pM05hUzBRT1AwOVRUWU94OUg3Ri1FMHFuSmNWY0Q5VmVuVQ?oc=5) ⭐️ 6.0/10
 
-据《天津日报》报道，天津口岸首次进口韩国甜柿，开辟了韩国甜柿经天津入境的新通道。该报道未披露本次进口的数量、价格、具体品种名称或生效日期。
+据 21 财经报道，2026 至 2027 产季的首批智利车厘子已运抵深圳。报道未披露该批车厘子的品种、数量、价格或具体到货日期。同一来源的英文报道提到，智利方面在深圳举办了该产季在中国市场的启动活动。
 
-rss · GN · 进口水果 · 11月20日 21:00
+rss · GN · 车厘子 · 11月20日 09:09
 
-**「背景」** 这是天津口岸首次进口韩国甜柿，此前该口岸没有韩国甜柿的进口记录。由于来源未提供数量、价格及以往进口数据，目前无法判断此次进口的规模及其对市场的影响。
+**「背景」** 智利方面近日在深圳举行 2026-27 产季启动仪式，智利总统何塞·安东尼奥·卡斯特与智利水果协会及其樱桃委员会代表出席，该活动是智利贸易促进局为“2026 中国智利周”在北京、深圳和上海组织系列活动之一（tool-2-1、tool-2-2）。这一启动仪式与首批智利车厘子抵达深圳同期发生，但现有来源未提供本批到货的品种、数量或价格信息。
 
-**标签**: `#persimmon-Korea`, `#persimmon-Tianjin`, `#import-lane`, `#port-opening`, `#sweet-persimmon`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.freshplaza.com/north-america/article/9894752/chile-kicks-off-the-2026-27-cherry-season-in-china-with-an-event-in-shenzhen/">Chile kicks off the 2026–27 cherry season in China with an ...</a></li>
+<li><a href="https://www.freshplaza.cn/article/9894753/zhi-li-zai-shen-zhen-ju-xing-qi-dong-yi-shi-biao-zhi-zhao-2026-27nian-du-ying-tao-ji-zai-zhong-guo-la-kai-wei-mu/">智利在深圳举行启动仪式，标志着2026-27年度樱桃季在中国拉开帷幕</a></li>
+
+</ul>
+</details>
+
+**标签**: `#cherry-Chile`, `#cherry-Shenzhen`, `#season-arrival`, `#imports`
 
 ---
 
 <a id="item-fruit-10"></a>
-### [福贾樱桃番茄生食限制解除，沙门氏菌个案引关注](https://www.hortidaily.com/article/9895022/isolated-salmonella-cases-must-not-damage-the-reputation-of-an-entire-production-area/) ⭐️ 5.0/10
+### [天津口岸首次进口韩国甜柿](https://news.google.com/rss/articles/CBMiggFBVV95cUxQUF9KUkhkem1UNlpoSkhOTXNyQndqX044c09ES3JlSWUwSTFieVREUkdJdkVXeEVFTGV0NEswWGRXUEJqWmN5Q0pBQWJuQlFJTUFIYXRnbEU2bGo4QVFJTDFvQkJiclBuQ2Q5VG9sOExJaTJEOXIzR0JLRURubV81Mnh3?oc=5) ⭐️ 6.0/10
 
-意大利普利亚大区福贾地方卫生局（Foggia Local Health Authority）在出现个别沙门氏菌病例后，曾暂停多个意大利地区的学校食堂、医院及其他面向易感人群的机构供应生食樱桃番茄；该机构随后推出的新措施重新允许机构场所供应生鲜番茄。报道称，此次暂停与个别沙门氏菌病例相关，并主张这些个案不应损害整个产区的声誉。报道未披露涉及的番茄数量、价格或具体恢复日期。
+《天津日报》报道，天津口岸首次进口韩国甜柿。该报道仅给出这一首次进口的事实，未披露进口量、价格、具体品种及到港时间。
 
-rss · HortiDaily · 11月20日 12:12
+rss · GN · 进口水果 · 11月20日 21:00
 
-**「背景」** 此前，意大利多个地区曾暂停在学校食堂、医院等脆弱人群场所供应生鲜樱桃番茄，Foggia 地方卫生局（普利亚大区）随后出台新措施，重新允许在机构场所供应生鲜番茄。该事件源于零星的沙门氏菌病例，报道认为不应因此损害整个产区的声誉。
+**「背景」** 这是天津口岸首次从韩国进口甜柿，意味着该口岸新增了一条韩国甜柿进口通道。由于来源未提供以往同产地发货量、历史价格或常规上市月份，暂无法判断此次进口在规模上属于试单还是常态化贸易。
 
-**标签**: `#tomato-Italy`, `#cherry-tomato`, `#food-safety`, `#Salmonella`, `#Apulia`
+**标签**: `#persimmon-Korea`, `#Tianjin-port`, `#import-lane`, `#sweet-persimmon`
 
 ---
 
 <a id="item-fruit-11"></a>
-### [美国果蔬业推动农工签证改革](https://www.hortidaily.com/article/9894884/u-s-produce-industry-pushes-for-agricultural-labor-reform-before-congress-adjourns/) ⭐️ 5.0/10
+### [南非樱桃收成不佳，供应前景不明](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWjd2ODlBN2paOHdMeXozVXBqd09qNUVKcWQ5VngyUHZHSEdMZTdSQVBVM1ZXSlRUR3hsaF9HenhNQXFMSVNvdFdhcVY2Qmh4YmVKWmlkeDZqRWZOY0VpTTRrMWRrUkhCdWN4aG95VEd2SWZQbkNOc1dNSFpGWFJycXQ0YWFNa3VoOXV5cnVqTUhscE1xZ3BBMWViQ2MtQTRMWFZHVVltRl9Ta04wTjJvclBvZThOWXYzcGtXcnNIWUQ2V3E2b0NpVmNYdUJ2S0wyRmc?oc=5) ⭐️ 6.0/10
 
-美国新鲜农产品协会（IFPA）成员本周在华盛顿与议员会面，推动改革美国农业客工项目。报道称，农业劳动力短缺持续威胁美国水果和蔬菜生产，而距离国会休会仅剩数周。该报道未给出具体品种、产地、数量、价格或政策生效日期，也未确认任何政策结果。
+News24 报道称，南非樱桃收成出现短缺，令樱桃消费者受到影响。该报道未给出具体品种、产地、数量、价格或时间等细节，也未说明对市场的影响。由于缺乏可核实的数字，目前无法判断短缺的规模及其对供应和价格的实际后果。
 
-rss · HortiDaily · 11月20日 12:12
+rss · GN · fruit market \(EN\) · 11月22日 02:23
 
-**「背景」** 此次游说发生在 IFPA 于 2026 年 3 月 31 日发布 2026 年美国公共政策议程之后，该议程将劳动力稳定列为六大优先领域之一（tool-2-3）。来源未提供具体品种、产地、数量、价格或政策生效日期，也未说明改革是否已有结果。
+**「背景」** 该报道未提供南非樱桃减产的具体品种、产区、产量或价格数据，也未说明与往年收成的对比。因此，目前无法判断此次减产对供应和价格的具体影响。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://theproducenews.com/ifpa-releases-us-policy-agenda-advance-fresh-produce-and-floral-industry-priorities">IFPA releases U.S. policy agenda to advance fresh produce and ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#labor`, `#US-produce`, `#policy`, `#IFPA`, `#horticulture`
+**标签**: `#cherry-South Africa`, `#cherry`, `#crop-shortfall`, `#harvest`
 
 ---
 
 <a id="item-fruit-12"></a>
-### [尼日利亚卡诺州签 300 万美元协议建 1000 座番茄温室](https://www.hortidaily.com/article/9894930/nigeria-signs-3m-deal-for-1-000-climate-smart-greenhouses-in-kano/) ⭐️ 5.0/10
+### [东航扩展智利车厘子供应链角色](https://news.google.com/rss/articles/CBMibEFVX3lxTE9LaGlCbUNESW5GRGZQMXNCMGZja1BNekNpV3U3MWZGNXdPUWFSUk9OT0N3TFVmNkN6VUl6WVd6ZVZxQl96UzhGWTZEVmpadWJ0d2VrbVg5OThiaVc1SGZRMmdMZmQxYWtjSEk3UQ?oc=5) ⭐️ 5.0/10
 
-尼日利亚联邦政府签署了一项价值 300 万美元的协议，计划在卡诺州建设 1000 座气候智能型温室用于番茄生产。该协议为谅解备忘录，在会议间隙签署，目的是提高农业生产力，并帮助农民获得现代农业技术。来源未披露温室的建设时间表、预计产量或番茄价格信息。
+中国民航网报道，东航在智利车厘子进入中国市场的环节中，从单纯承运人进阶为供应链组织者。所提供的内容仅为标题与链接，未披露具体品种、发货量、价格、启运日期或航线细节。报道未说明这一角色变化是否已进入实际执行阶段，也未给出可核实的数量或时间表。
 
-rss · HortiDaily · 11月20日 12:12
+rss · GN · 车厘子 · 11月20日 14:38
 
-**「背景」** 该协议目前仅处于谅解备忘录阶段，来源未说明温室何时动工、何时投产，也未给出与卡诺州以往番茄供应量或价格的对比数据。因此，这一投资对番茄供给和价格的实际影响尚无法从现有信息判断。
+**「背景」** 该报道仅提供标题，未给出智利车厘子的品种、发运量、价格或具体日期，因此无法据此判断本季供应与价格走向。智利车厘子通常在南半球夏季（约 11 月至次年 2 月）集中对华出口，空运多用于早期或高价值批次；这一季节性背景可用于理解东航角色变化的意义，但本次报道未提供可核实的数量或价格数据。
 
-**标签**: `#tomato-Nigeria`, `#greenhouse`, `#Kano`, `#agricultural-investment`, `#Africa`
+**标签**: `#cherry-Chile`, `#cherry-China`, `#air-freight`, `#cold-chain`, `#import-logistics`
 
 ---
 
 <a id="item-fruit-13"></a>
-### [东航承运智利车厘子入华十余年](https://news.google.com/rss/articles/CBMifEFVX3lxTE1CZ3lTR1pSemFiZ2MxRlVoQl9DbVFQRHJ1X2x5VFM3V3BCWFlsSWQ4OC1yeUJIbmp2SHIySmRvcVd2ZGl4bGp0eFdOdE51T2MxSG1LNEJtUWx3TTl1ckdyRFhOU2ZBRFk4ckxGeDRlUUpZZ2ZDSjRnXzZzUWw?oc=5) ⭐️ 5.0/10
+### [珠海网以车厘子跨洋之旅报道跨境贸易便利化](https://news.google.com/rss/articles/CBMid0FVX3lxTE1nQkdReW95eWdmaVF1UnNfNzZHb2RLeHBuV3JUWEl5dEdMV3dFTzM0dUhTNHhLc1ZJeUZUZjM0emNJS05GVUVKd29vcmc1YWZCTVlJSWJGb19FNzBqMWRJNkxsVkk5eDZSaDd2bXdwQUVsMGVVMGc4?oc=5) ⭐️ 5.0/10
 
-中国日报网报道称，中国东航承运智利车厘子进入中国市场已超过十年，其角色从航空承运人逐步转向供应链组织者。所提供的内容仅有标题和链接，没有披露具体品种、发货量、价格、起运日期或航线数据，因此无法确认本季的供应规模与价格水平。报道将这一变化描述为长期角色演进，而非一次新的发运或报价事件。
+珠海网发布了一篇以车厘子“跨洋之旅”为主题的报道，用以说明跨境贸易便利化。但所提供的内容仅有标题和链接，未包含车厘子的品种、产地、数量、价格或具体政策信息，也未说明报道涉及的具体日期或口岸。因此，无法从现有材料确认任何供应或价格变化。
 
-rss · GN · 车厘子 · 11月21日 05:24
+rss · GN · 车厘子 · 11月20日 12:48
 
-**「背景」** 据工具结果，2025 年 11 月 17 日晚，东航物流旗下“东航冷链”CK292 全货机载运 88.75 吨智利车厘子抵达上海浦东国际机场，这为理解东航在智利车厘子空运中的角色提供了近期参照。另有报道称，东航物流已连续 12 年是中国最大的智利空运车厘子承运人和进口商。当前条目仅有标题，未提供运量、价格或具体日期，上述数字来自外部检索结果，并非本条目的内容。
+**「背景说明」** 该报道将车厘子进口作为跨境贸易便利化的案例，但未提供可供对照的往年同产地发货量、前期价格水平或具体通关规则变化。由于缺少这些具体信息，无法判断报道所述便利化措施的实际范围或影响。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.tridge.com/news/8875-tons-eastern-airlines-charter-flight-re-rnyfzg">88.75 tons! Eastern Airlines charter flight reaches Chile in ...</a></li>
-<li><a href="https://www.newschannelasia.com/article/874670060-sweet-express-across-half-the-globe-china-eastern-airlifts-chilean-cherries-in-record-24-hour-charter">&#x27;Sweet express&#x27; across half the globe: China Eastern airlifts ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#cherry-Chile`, `#cherry-China`, `#air-freight`, `#cold-chain`, `#supply-chain`
+**标签**: `#cherry`, `#cherry-imports`, `#cross-border-trade`, `#customs-logistics`, `#China`
 
 ---
 
 <a id="item-fruit-14"></a>
 ### [京东生鲜首推“精挑车厘子”预售](https://news.google.com/rss/articles/CBMicEFVX3lxTE1DNDFrN1NoLXBvc0xKSXRFM1MzaW03X1BtWmVfOU9TNVNqRVJFWEZUTENQT3c3aU5aREVuRG8zUV9raU1ualNMT1FPXzNfN0dOVEZJcGk2X3JSN1dsem5rdUpiU2lGUHUtdUR5RVU4VEI?oc=5) ⭐️ 5.0/10
 
-据手机新浪网报道，京东生鲜推出行业首个“精挑车厘子”品类，并已上线预售。报道未披露车厘子的产地、品种、规格、预售量或价格。该消息属于零售端的预售活动，具体供应与定价细节尚不明确。
+据手机新浪网报道，京东生鲜推出行业首个“精挑车厘子”预售，并已上线预售。报道未披露车厘子的品种、产地、预售数量或价格。该消息属于零售预售活动信息，具体供应规模与定价尚不明确。
 
 rss · GN · 车厘子 · 11月21日 08:39
 
-**「背景」** 车厘子预售通常出现在进口车厘子新产季到货前，零售商通过提前锁定货源和订单来安排后续供应。此次报道未说明该预售对应哪个产季或产地，也未给出与往年同期相比的数量或价格参照。
+**「背景」** 车厘子预售通常出现在进口车厘子新季到货前，零售商通过预售锁定需求。此次报道未说明对应产季、产地或与往期预售的对比，因此无法判断其在供应和价格上的实际分量。
 
-**标签**: `#cherry`, `#cherry-Chile`, `#retail-promotion`, `#JD-Fresh`, `#pre-sale`
+**标签**: `#cherry`, `#cherry-Chile`, `#retail-promotion`, `#pre-sale`, `#JD-Fresh`
 
 ---
 
 <a id="item-fruit-15"></a>
-### [智利车厘子 2026 至 2027 产季首批抵达深圳](https://news.google.com/rss/articles/CBMijwFBVV95cUxQbnlib3FSaC1ibmRoM05qWXJXRUdWYm1CeklubXZkdXFJX3NFY29uQmZYajlwYy1sNE1GSXpCbDEyWTdacVRSNjcwYldTZVJnakdDQmp3R01ON29SZGlzaFlNQi11Wi1mZXlqcU1pM05hUzBRT1AwOVRUWU94OUg3Ri1FMHFuSmNWY0Q5VmVuVQ?oc=5) ⭐️ 5.0/10
+### [费城批发市场发布 2026 年 11 月 20 日水果报告](https://news.google.com/rss/articles/CBMinAFBVV95cUxPN3E0dENyWEprT1psTVVKbUxRQklLS3NZZ0o0Y0E2Z3RlaDlPTEpWM05NOWJhUFZMazI0a3BHTjZwbTFOZEUydnJGTFZmTWpsLTFGclE5T0VXN01pdTBQcWFKR0VqdmJ2Rmd4ejNLLXAxYThpSzBPSEVSWllQazg4eWpaN1VHVTZ0XzBQdktYZVJveTJpb0lObmtKN00?oc=5) ⭐️ 5.0/10
 
-据 21 财经报道，2026 至 2027 产季的首批智利车厘子已到达深圳。该报道仅确认了产地为智利、到货口岸为深圳，未披露品种、到货数量、价格或具体到货日期。
+IndexBox 发布了标题为“费城批发市场水果报告：2026 年 11 月 20 日”的条目，发布日期为 2026 年 11 月 20 日。所提供的来源内容仅包含标题和链接，未给出任何品种、到货量或价格数据。因此，该报告的具体水果品类、交易数量和报价均无法从现有材料中核实。
 
-rss · GN · 车厘子 · 11月20日 09:09
+rss · GN · 红富士 苹果 · 11月20日 18:50
 
-**「背景」** 智利车厘子通常在南半球夏季采收，经海运或空运进入中国市场，深圳是其主要的入境口岸之一。首批到货一般标志着新产季对华供应启动，但本次报道未提供与上一产季到货时间或规模的对比数据。
+**「背景」** 该条目属于费城批发市场的例行到货与价格报告，标签中提及苹果和红富士，但正文未提供对应数据。由于缺少上一期报告或历史价格作为参照，目前无法判断本次报告反映的是供应收紧还是价格变动。
 
-**标签**: `#cherry-Chile`, `#cherry-Shenzhen`, `#season-arrival`, `#import`
+**标签**: `#wholesale-market`, `#apple`, `#Philadelphia`, `#arrival-report`, `#IndexBox`
 
 ---
